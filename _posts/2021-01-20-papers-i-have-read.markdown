@@ -6,6 +6,6 @@ categories: jekyll update
 ---
 
 `Jan. 19th`
-* [TARF] Networking across boundaries: enabling wireless communication through the water-air interface[SIGCOMM'18]
+* #[TARF]# Networking across Boundaries: Enabling Wireless Communication through the Water-Air Interface[SIGCOMM'18]
 
 [TARF]: https://dspace.mit.edu/bitstream/handle/1721.1/128691/TARF-paper.pdf?sequence=2&isAllowed=y
